@@ -46,3 +46,8 @@ i{
         grid-template-columns: auto;
     }
   }
+  .form{
+        margin: 5em auto;
+        width: 75%;
+        
+  }
